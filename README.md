@@ -1,4 +1,6 @@
-# renova-visual-archives
-Arquivos sobre identidade visual, slides e outros sobre o projeto RENOVA.
+# RENOVA
 
-![Renova](/logo/renova-green1.png "San Juan Mountains")
+
+Aqui serão disponibilizados os arquivos de arte, conceitos, identidade visual, slides e outros tipos sobre o projeto **RENOVA**
+
+![Renova](/logo/renova-green1.png "RENOVA")
